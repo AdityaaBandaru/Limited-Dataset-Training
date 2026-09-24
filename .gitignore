@@ -1,0 +1,6 @@
+data/
+outputs/runs/*
+!outputs/runs/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
